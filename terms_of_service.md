@@ -8,7 +8,7 @@ The TextMyGPS app allows you to track you vehicle if it is stolen.
 
 This app requires 2 phones. One phone(a cheap phone) is placed in the vehicle, and if the vehicle is moved from its starting location the phone will automatically text its location to the other phone(your primary phone) at set time intervals. This cheap phone can also be used for emergency phone calls or emergency navigation.
 
-To use the app you enter your [settings](#settings) and when you leave your vehicle your press or text "Start Location Listening" to activate the app. When you return to your vehicle, before you start driving, you press or text "Stop Location Listening" to deactivate it.
+To use the app you enter your settings and when you leave your vehicle your press or text "Start Location Listening" to activate the app. When you return to your vehicle, before you start driving, you press or text "Stop Location Listening" to deactivate it.
 
 ## Disclaimer
 
